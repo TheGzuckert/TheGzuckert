@@ -1,10 +1,9 @@
 ### Iaee, pode me chamar de Guu 👋
 
-<div align="center">
 - 🔭 Atualmente estou trabalhando como desenvolvedor jr pela Corelab 💜
 - 🌱 Estou estudando Javascript, React e Node.js.
 - 😄 Pronomes:Ele/dele
-</div>
+
 
 
 <div style="display: inline_block"><br>
