@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor jr pela Corelab 💜
-- 🌱 Atualmente estou estudando Javascript, React e Node.js.
+- 🌱 Estou estudando Javascript, React e Node.js.
 - 😄 Pronomes:Ele/dele
 
 
