@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
 # 🌃 Hello guys!
 
 ## My name is Gustavo but you can call me Guu
