@@ -1,7 +1,7 @@
 
 # 🌃 Hello guys!
 
-## My name is Gustavo but you can call me Guu
+## My name is Gustavo but u can call me Guu ^^
 
 
 - I am currently working as a developer jr at Corelab💜
