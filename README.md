@@ -1,7 +1,7 @@
 
 # 🌃 Hello guys!
 
-## My name is Gustavo but u can call me Guu ^^
+## My name is Gustavo but u can call me Guu     ^^
 
 
 - Pronouns: him/his
