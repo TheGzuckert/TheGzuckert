@@ -1,9 +1,3 @@
-
-# 🌃 Hello guys!
-
-## My name is Gustavo but u can call me Guu     ^^
-
-
 - Pronouns: him/his
 <div align="block">
   <a href="https://github.com/TheGzuckert">
