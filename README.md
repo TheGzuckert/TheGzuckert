@@ -1,9 +1,3 @@
-<div align="block">
-  <a href="https://github.com/TheGzuckert">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheGzuckert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  <br>
-  
   ## I'm studying and work with
   <div>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
