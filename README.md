@@ -6,8 +6,6 @@
 - 📊 Atualmente trabalho na Ben como DBA, Análista de Dados e Suporte
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
-![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
-
 ### Technologies
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -33,3 +31,5 @@
 	<a href="https://twitter.com/TheGzuckert"></a>
 	<a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
+
+![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
