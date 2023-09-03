@@ -1,3 +1,22 @@
+# Sobre Mim
+
+Olá! Sou Gustavo, um entusiasta de tecnologia com 21 anos de idade, atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo). Com uma paixão por programação desde cedo, decidi seguir uma carreira na área de tecnologia para explorar meu interesse em desenvolvimento de software e gerenciamento de dados.
+
+## Experiência Profissional
+
+- 🖥️ Trabalhei como Fullstack Developer na Corelab, onde tive a oportunidade de desenvolver habilidades em várias tecnologias web, desde o frontend até o backend. Essa experiência me permitiu trabalhar em projetos desafiadores e aprender a criar soluções completas.
+
+- 💾 Atualmente, sou Analista de Banco de Dados Júnior na Bten, onde estou focado em gerenciar dados, garantindo sua integridade e acessibilidade para as equipes de desenvolvimento. Esta posição tem me proporcionado um entendimento mais profundo dos sistemas de gerenciamento de banco de dados e sua importância para as operações de negócios.
+
+## Minha Jornada
+
+Minha jornada na área de tecnologia começou há cerca de 1 ano e 6 meses, e desde então tenho me dedicado a aprender e crescer continuamente. Estou constantemente explorando novas tecnologias e ferramentas para melhorar minhas habilidades e permanecer atualizado no campo em constante evolução da tecnologia da informação.
+
+## Contato
+
+Estou sempre aberto a novas oportunidades, colaborações e discussões técnicas. Você pode entrar em contato comigo através do meu perfil do GitHub ou pelo meu e-mail [seuemail@example.com].
+
+Obrigado por visitar meu perfil! Mal posso esperar para compartilhar meu trabalho e aprender com a comunidade de desenvolvedores.
 
 ![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
 
