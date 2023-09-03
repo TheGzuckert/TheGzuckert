@@ -6,7 +6,7 @@
 - 📊 Atualmente trabalho na Ben como DBA, Análista de Dados e Suporte
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
-### Hello, welcome to my GitHub
+### Hey, welcome to my GitHub
 
 - 😊 Hi, I'm **Gustavo Zuckert**, and I'm 21 years old.
 - 🖥️ I am a Junior Developer.
