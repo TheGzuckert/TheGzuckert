@@ -1,3 +1,7 @@
+
+![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
+
+
 ### Languages
   <div>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -7,7 +11,10 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="AdonisJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
     <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />     
+    <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />   
+
+
+   
 </div>
 
 ### Social Midea
@@ -19,4 +26,3 @@
 </div>
 	
 
-![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
