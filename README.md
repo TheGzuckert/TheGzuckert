@@ -8,11 +8,11 @@
 
 ### Hey, welcome to my GitHub
 
-- 😊 Hi, I'm **Gustavo Zuckert**, and I'm 21 years old.
-- 🖥️ I am a Junior Developer.
-- 👨‍💻 I worked at Corelab for 6 months as a full-stack developer.
-- 📊 Currently, I work at Ben as a DBA, Data Analyst, and Support.
-- 🎓 I am in the sixth and final semester of ADS at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo).
+- 😊 Hi, I'm **Gustavo Zuckert**, and I'm 21 years old
+- 🖥️ I am a Junior Developer
+- 👨‍💻 I worked at Corelab for 6 months as a full-stack developer
+- 📊 Currently, I work at Ben as a DBA, Data Analyst, and Support
+- 🎓 I am in the sixth and final semester of ADS at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
 
 ### Technologies
 <div>
