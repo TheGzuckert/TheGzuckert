@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 
 ### Languages
   <div>
