@@ -1,4 +1,5 @@
 ## Sobre Mim
+
 - 😊 Olá sou **Gustavo Zuckert** tenho 21 anos
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Trabalhei na Corelab durante 6 meses como fullstack
