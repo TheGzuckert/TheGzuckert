@@ -2,16 +2,16 @@
 
 - 😊 Olá sou **Gustavo Zuckert** tenho 21 anos
 - 🖥️ Sou Desenolvedor Jr
-- 👨‍💻 Trabalhei na Corelab durante 6 meses como fullstack
-- 📊 Atualmente trabalho na Ben como DBA, Análista de Dados e Suporte
+- 👨‍💻 Trabalhei na **Corelab** durante 6 meses como fullstack
+- 📊 Atualmente trabalho na **Bten** como DBA, Análista de Dados e Suporte
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
 ### Hey, welcome to my GitHub
 
 - 😊 Hi, I'm **Gustavo Zuckert**, and I'm 21 years old
 - 🖥️ I am a Junior Developer
-- 👨‍💻 I worked at Corelab for 6 months as a full-stack developer
-- 📊 Currently, I work at Ben as a DBA, Data Analyst, and Support
+- 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
+- 📊 Currently, I work at **Bten** as a DBA, Data Analyst, and Support
 - 🎓 I am in the sixth and final semester of ADS at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
 
 ### Technologies
