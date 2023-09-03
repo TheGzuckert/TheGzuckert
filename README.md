@@ -33,7 +33,7 @@
 </div>
 
 <div>
-	![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
+	<a></a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
