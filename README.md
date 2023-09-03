@@ -1,16 +1,9 @@
-$# Sobre Mim
-
-Olá! Sou Gustavo, um apaixonado por tecnologia com 21 anos de idade, atualmente cursando Análise e Desenvolvimento de Sistemas no IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo). Minha jornada na área de tecnologia começou há cerca de 1 ano e 6 meses, quando decidi seguir minha paixão pela programação e pelo gerenciamento de dados.
-
-### Experiência Profissional
-
-- 🖥️ No passado, tive a incrível oportunidade de atuar como Fullstack Developer na Corelab. Durante esse período, adquiri habilidades em diversas tecnologias web, desde o frontend até o backend, trabalhando em projetos desafiadores e aprendendo a criar soluções completas.
-
-- 💾 Atualmente, sou Analista de Banco de Dados Júnior na Bten, onde concentro meus esforços em gerenciar dados, garantindo sua integridade e acessibilidade para as equipes de desenvolvimento. Essa posição me proporciona um entendimento mais profundo dos sistemas de gerenciamento de banco de dados e sua importância para as operações de negócios.
-
-### Minha Jornada
-
-Minha jornada na área de tecnologia começou há cerca de 1 ano e 6 meses, e desde então tenho me dedicado a aprender e crescer continuamente. Estou constantemente explorando novas tecnologias e ferramentas para melhorar minhas habilidades e permanecer atualizado no campo em constante evolução da tecnologia da informação.
+## Sobre Mim
+- 😊 Olá sou **Gustavo Zuckert** tenho 21 anos
+- 🖥️ Sou Desenolvedor Jr
+- 👨‍💻 Trabalhei na Corelab durante 6 meses como fullstack
+- 📊 Atualmente trabalho na Ben como DBA, Análista de Dados e Suporte
+- 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
 ### Technologies
 <div>
