@@ -32,6 +32,8 @@
 	<a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-<div></div>
+<div>
+	![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
+</div>
 
 ![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
