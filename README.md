@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu github
+### Olá bem vindo ao meu Github
 
 - 😊 Olá sou **Gustavo Zuckert** tenho 21 anos
 - 🖥️ Sou Desenolvedor Jr
