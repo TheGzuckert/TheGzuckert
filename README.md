@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu Github
+### Olá bem vindo ao meu Github!
 
 - 😊 Olá sou **Gustavo Zuckert** tenho 21 anos
 - 🖥️ Sou Desenolvedor Jr
@@ -6,7 +6,7 @@
 - 📊 Atualmente trabalho na **Bten** como DBA, Análista de Dados e Suporte
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
-### Hey, welcome to my GitHub
+### Hey, welcome to my GitHub!
 
 - 😊 Hi, I'm **Gustavo Zuckert**, and I'm 21 years old
 - 🖥️ I am a Junior Developer
