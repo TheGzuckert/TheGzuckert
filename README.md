@@ -3,7 +3,7 @@
 - 😊 Olá sou **Gustavo Zuckert** tenho 22 anos
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Trabalhei na **Corelab** durante 6 meses como fullstack
-- 📊 Atualmente trabalho na **Bten** como DBA, Análista de Dados e Suporte
+- 📊 Trabalehi trabalhei na **Bten** como DBA, Análista de Dados e Suporte duarante um ano e 9 meses
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
 ### Hey, welcome to my GitHub!
