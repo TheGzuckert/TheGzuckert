@@ -1,6 +1,6 @@
 ### Olá bem vindo ao meu Github!
 
-- 😊 Olá sou **Gustavo Zuckert** tenho 22 anos
+- 😊 Olá sou **Gustavo Zuckert**
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Trabalhei na **Corelab** durante 6 meses como fullstack
 - 📊 Trabalehi trabalhei na **Bten** como Análista de Dados e Suporte e BDA duarante um ano e 9 meses
@@ -8,7 +8,7 @@
 
 ### Hey, welcome to my GitHub!
 
-- 😊 Hi, I'm **Gustavo Zuckert**, and I'm 22 years old
+- 😊 Hi, I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
 - 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
 - 📊 Currently, I work at **Bten** as a DBA, Data Analyst, and Support
