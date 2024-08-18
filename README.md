@@ -3,7 +3,7 @@
 - 😊 Olá sou **Gustavo Zuckert**
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Trabalhei na **Corelab** durante 6 meses como fullstack
-- 📊 Trabalehi trabalhei na **Bten** como Análista de Dados e Suporte e BDA duarante um ano e 9 meses
+- 📊 Trabalhei trabalhei na **Bten** como Análista de Dados e Suporte e BDA duarante um ano e 9 meses
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
 ### Hey, welcome to my GitHub!
