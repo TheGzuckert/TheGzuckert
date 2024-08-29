@@ -3,7 +3,6 @@
 - 😊 Olá sou **Gustavo Zuckert**
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Atuei na **Corelab** durante 6 meses como fullstack
-- 📊 Trabalhei trabalhei na **Bten** como Análista de Dados e Suporte e BDA duarante um ano e 9 meses
 - 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
 
 ### Hey, welcome to my GitHub!
@@ -11,7 +10,6 @@
 - 😊 Hi, I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
 - 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
-- 📊 Currently, I work at **Bten** as a DBA, Data Analyst, and Support
 - 🎓 I am in the sixth and final semester of ADS at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
 
 ### Technologies
