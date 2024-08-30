@@ -3,14 +3,14 @@
 - 😊 Olá sou **Gustavo Zuckert**
 - 🖥️ Sou Desenolvedor Jr
 - 👨‍💻 Atuei na **Corelab** durante 6 meses como fullstack
-- 🎓 Estou no sexto e ultimo periodo de ADS pela IFSP
+- 🎓 Estou crusando ADS pela IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
 
 ### Hey, welcome to my GitHub!
 
 - 😊 Hi, I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
 - 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
-- 🎓 I am in the sixth and final semester of ADS at IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
+- 🎓 I'm studying ADS at IFSP (Federal Institute of Education, Science and Technology of São Paulo)
 
 ### Technologies
 <div>
