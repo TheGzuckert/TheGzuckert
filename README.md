@@ -32,20 +32,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-
 </div>
 
 ### Social Midea
-<img src="https://i.pinimg.com/originals/1e/c4/20/1ec420eeb8dc302113afe13efd0fff59.gif">
-<br>
-<div> 
-	<a href="https://instagram.com/gustavozuckert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="https://www.linkedin.com/in/gustavo-dos-santos-zuckert-3395b5217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-	<a href="https://twitter.com/TheGzuckert"></a>
-	<a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+  <a href="https://instagram.com/gustavozuckert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-dos-santos-zuckert-3395b5217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/TheGzuckert"></a>
+  <a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<div>
+  <img src="https://i.pinimg.com/originals/1e/c4/20/1ec420eeb8dc302113afe13efd0fff59.gif">
 </div>
 
 ![](https://komarev.com/ghpvc/?username=TheGzuckert&color=DD6387)
+
+
 
 
