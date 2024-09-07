@@ -1,16 +1,19 @@
-### Olá bem vindo ao meu Github!
+### Hi There! 👋
 
-- 😊 Olá sou **Gustavo Zuckert**
-- 🖥️ Sou Desenolvedor Jr
-- 👨‍💻 Atuei na **Corelab** durante 6 meses como fullstack
-- 🎓 Estou crusando ADS pela IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo)
-
-### Hey, welcome to my GitHub!
-
-- 😊 Hi, I'm **Gustavo Zuckert**
+-  I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
 - 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
 - 🎓 I'm studying ADS at IFSP (Federal Institute of Education, Science and Technology of São Paulo)
+
+### My social media
+<div>
+    <a href="https://instagram.com/gustavozuckert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-dos-santos-zuckert-3395b5217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/TheGzuckert"></a>
+  <a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
+
+
 
 ### Technologies
 <div>
@@ -33,13 +36,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
-
-### Social Midea
-
-  <a href="https://instagram.com/gustavozuckert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-dos-santos-zuckert-3395b5217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/TheGzuckert"></a>
-  <a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<br>
 <div>
   <img src="https://i.pinimg.com/originals/1e/c4/20/1ec420eeb8dc302113afe13efd0fff59.gif">
 </div>
