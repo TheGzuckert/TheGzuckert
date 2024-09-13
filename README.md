@@ -1,4 +1,4 @@
-### Hi There! 👋
+## Hi There! 👋
 
 -  I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
