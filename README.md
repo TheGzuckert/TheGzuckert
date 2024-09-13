@@ -34,9 +34,7 @@
   <a href="https://www.linkedin.com/in/gustavo-dos-santos-zuckert-3395b5217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/TheGzuckert"></a>
   <a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="gustavo.santoszuckert@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
-  <a href="mailto:gustavo.santoszuckert@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+  <a href="mailto:gustavo.santoszuckert@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
 </a>
 </div>
 
