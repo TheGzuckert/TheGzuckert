@@ -2,7 +2,7 @@
 
 -  I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
-- 🎓 I'm studying ADS at IFSP (Federal Institute of Education, Science and Technology of São Paulo)
+- 🎓 I'm studying Systems Analysis and Development at IFSP
 
 ### Technologies
 <div>
