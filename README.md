@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
 </div>
 
 ### My social media
@@ -35,8 +34,8 @@
   <a href="https://twitter.com/TheGzuckert" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:gustavo.santoszuckert@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"></a>
 </div>
-<br>
 
+### Spotify
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22a4l5mwumpbfv352josjjbiy&unique={true|1|on|yes})
 <!--<img src="https://i.pinimg.com/originals/1e/c4/20/1ec420eeb8dc302113afe13efd0fff59.gif" width="330" height="330">-->
 
