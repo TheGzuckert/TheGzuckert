@@ -2,7 +2,7 @@
 
 -  I'm **Gustavo Zuckert**
 - 🖥️ I am a Software Engineer Jr
-- 🎓 I'm graduating Systems Analysis and Development at **IFSP**
+- 🎓 Graduating Systems Analysis and Development at **IFSP**
 
 ### Technologies
 <div>
