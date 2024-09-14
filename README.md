@@ -2,7 +2,6 @@
 
 -  I'm **Gustavo Zuckert**
 - 🖥️ I am a Junior Developer
-- 👨‍💻 I worked at **Corelab** for 6 months as a full-stack developer
 - 🎓 I'm studying ADS at IFSP (Federal Institute of Education, Science and Technology of São Paulo)
 
 ### Technologies
