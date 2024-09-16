@@ -1,6 +1,6 @@
 ## Hi There! 👋
 
--  I'm **Gustavo Zuckert**
+-  I'm **Gustavo Zuckert** but you can call me Guu!
 - 🖥️ I am a Software Engineer Jr
 - 🎓 Graduating in Systems Analysis and Development at **IFSP**
 
