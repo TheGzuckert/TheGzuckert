@@ -1,8 +1,7 @@
 ## Hi There! 👋
 
 -  I'm **Gustavo Zuckert** but you can call me Guu!
-- 🖥️ I am a **Software Engineer** in **Log Smart**
-- 🎓 Graduating in Systems Analysis and Development at **IFSP**
+- 🖥️ I am a **Software Engineer**
 
 ### Technologies
 <div>
